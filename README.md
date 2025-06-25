@@ -9,7 +9,7 @@
 <p align="center">Currently studying at Astana IT University.</p>
 
 <br />
-<h2 align="center">My Stack &nbsp; <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestNeutral.svg"></h2>
+<h2 align="center">My Stack <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestNeutral.svg"></h2>
 <p align="center">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
