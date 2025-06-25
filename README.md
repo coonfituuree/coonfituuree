@@ -5,7 +5,7 @@
     Welcome to my Page on GitHub!
 </p>
 
-<p align="center">My name is Galym, 18 years old Tech-Dreamer from Kazakhstan, Aktobe.</p>
+<p align="center">My name is Galym, 18 years old <b>Tech-Dreamer</b> from Kazakhstan, Aktobe.</p>
 <p align="center">Currently studying at Astana IT University.</p>
 
 <br />
